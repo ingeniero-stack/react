@@ -1,0 +1,23 @@
+.sunset-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sunset-heading {
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  
+  .sunset-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .sunset-photos img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+  }
+  
